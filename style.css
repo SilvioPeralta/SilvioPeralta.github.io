@@ -1,9 +1,12 @@
 p {
-    color: #FF0000;
+    color: #df59d8;
     font-size: 24px;
     font-family: Cambria;
 }
 
 body {
-    background-color: black;
+    background-image: url("assets/cherry_image.png");
+    background-size: cover;     /* Ajusta la imagen al tamaño de la pantalla */
+    background-position: center; /* Centra la imagen */
+    background-repeat: no-repeat; /* Evita que se repita */
 }
